@@ -62,13 +62,6 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				},
-				amazon: {
-					primary: '#131921',
-					secondary: '#232f3e',
-					accent: '#ff9900',
-					yellow: '#febd69',
-					light: '#f3f3f3'
 				}
 			},
 			borderRadius: {
