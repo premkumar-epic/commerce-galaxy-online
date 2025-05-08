@@ -4,6 +4,7 @@ import Hero from "../components/Hero";
 import ProductGrid from "../components/ProductGrid";
 import CartSidebar from "../components/CartSidebar";
 import Footer from "../components/Footer";
+import ChatBot from "../components/ChatBot";
 
 const Index = () => {
   return (
@@ -50,6 +51,7 @@ const Index = () => {
       
       <Footer />
       <CartSidebar />
+      <ChatBot />
     </div>
   );
 };
